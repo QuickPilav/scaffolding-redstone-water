@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Scaffolding : Block
 {
-    private const int BREAK_DISTANCE = 4;
+    private const int BREAK_DISTANCE = 7;
 
     public int Distance { get; private set; }
 
