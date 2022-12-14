@@ -7,8 +7,11 @@ I looked at the internet for this so much, but didn't know what to search for or
 So I decided to decompile Minecraft and look at its source code.
 
 WASD to move
+
 Left Mouse to place block
+
 Middle Mouse to place extender block
+
 Right Mouse to break block
 
 And I managed to do it!!! (i guess... IDK its optimized or not, i just made that in few hours...)
