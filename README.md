@@ -12,7 +12,7 @@ This is made with similar working method of Minecraft's scaffolding, redstone an
 
 I looked at the internet for this so much, but didn't know what to search or found broken links...
 
-So I decided to decompile Minecraft and look at its source code.
+So I decided to decompile Minecraft and look at its source code. (This code doesn't contain any code from Minecraft, it might look similar but its not the same...)
 
 And I managed to do it!!! (i guess... IDK if its optimized or not, i just made that in a few hours...)
 
